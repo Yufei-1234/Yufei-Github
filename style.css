@@ -1,0 +1,36 @@
+h1 {
+  color: rgb(255, 44, 157);
+  font-size: 80px;
+  letter-spacing: -2px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  transform: scaleY(1.5);
+}
+
+body {
+  background-color: rgb(255, 231, 247);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 60px;
+}
+
+
+h2 {
+  color: rgb(187, 81, 123);
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+p {
+  color: rgb(255, 79, 170);
+  font-size: 25px;
+}
+
+img {
+  width: 500px;
+  margin-top: 20px;
+}
+
+a {
+  color: #5aeeff;
+  font-size: 25px;
+}
