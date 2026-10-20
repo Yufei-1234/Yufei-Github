@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #d8ffff;
+}
+
+
+header {
+  background-color: #cefcfc;
+  padding: 20px 40px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.name h1 {
+  margin: 0;
+}
+
+
+.name p {
+  margin-top: 10px;
+}
+
+
+.nav {
+  display: flex;
+}
+
+
+.nav a {
+  color: black;
+  margin-left: 30px;
+}
+
+
+main {
+  padding: 30px;
+}
+
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+
+.card {
+  width: 45%;
+  background-color: #fdf2f5;
+  padding: 20px;
+  margin: 20px;
+}
+
+.card-top {
+  display: flex;
+  align-items: center;
+}
+
+
+.number {
+  font-family: "Rubik 80s Fade", sans-serif;
+  font-size: 70px;
+  font-weight: normal;
+  margin-right: 20px;
+}
+
+
+.project-info p {
+  margin: 0;
+}
+
+
+.project-info h2 {
+  margin: 5px 0 0 0;
+  font-size: 28px;
+}
+
+
+.arrow {
+  font-size: 28px;
+  margin-left: auto;
+  color: black;
+  text-decoration: none;
+}
+
+
+.card img {
+  width: 100%;
+  margin-top: 20px;
+}
